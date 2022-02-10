@@ -252,7 +252,7 @@ class HomeBody extends StatelessWidget {
                 height: 15,
               ),
               Image.asset(
-                "images/language.png",
+                "assets/images/language.png",
                 height: 100,
               ),
               Text(
