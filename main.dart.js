@@ -60342,7 +60342,7 @@ A.a4Q.prototype={
 $0(){return A.OO("https://www.linkedin.com/in/noah-yusen-543518215/")},
 $S:0}
 A.a4R.prototype={
-$0(){return A.OO("https://github.com/nitrous10?tab=repositories")},
+$0(){return A.OO("https://github.com/nsyusen?tab=repositories")},
 $S:0}
 A.Et.prototype={
 K(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=new A.bB(50,50)
