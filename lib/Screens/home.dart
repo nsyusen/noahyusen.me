@@ -174,7 +174,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ],
                   ),
-                  onTap: () => launch("https://github.com/nitrous10?tab=repositories")
+                  onTap: () => launch("https://github.com/nsyusen?tab=repositories")
                 ),
                 Spacer(),
               ],
