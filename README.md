@@ -1,16 +1,12 @@
 # Noah Yusen Website
 
-A new Flutter application.
+A personal website for Noah Yusen, developed using the Flutter framework.
 
-## Getting Started
+Includes:
+* A personal introduction and an Other Interests section
+* Programming tools that I am comfortable with
+* Descriptions of various personal projects
 
-This project is a starting point for a Flutter application.
+The website is publicly accessible at [noahyusen.me](http://www.noahyusen.me)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Source code can be found within the lib directory.
