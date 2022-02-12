@@ -41,7 +41,7 @@ class HomeBody extends StatelessWidget {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(10),
                             child: Image.asset(
-                              "assets/images/snowman.jpeg",
+                              "assets/images/profile.png",
                               height: 300,
                             ),
                           ),
@@ -203,7 +203,7 @@ class HomeBody extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(10),
                     child: Image.asset(
-                      "assets/images/snowman.jpeg",
+                      "assets/images/profile.png",
                       height: 250,
                     ),
                   ),
